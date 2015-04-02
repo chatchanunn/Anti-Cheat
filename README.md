@@ -1,7 +1,7 @@
 Anti-Cheat
 ==========
 
-this is open source anti-cheat cross-platform for education or comercial use by ProtectBaka'
+this is open source anti-cheat cross-platform for education or commercial use by ProtectBaka'
 
 website : protectbaka.studionyan.net/project/anti-cheat
 
@@ -25,4 +25,4 @@ md5 = check sum data file because some data file has edit
 
 main = example to use all
 
-ps. i'm don't add sleep you can add sleep
+ps. i'm don't add sleep you can add sleep for test
